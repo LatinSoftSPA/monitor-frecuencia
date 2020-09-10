@@ -1,0 +1,45 @@
+li{
+    display:inline-block;
+}
+
+a{
+    text-decoration: none;    
+    color: #fff;
+    display: block; /* Convertimos los elementos a en elementos bloque para manipular el padding */
+    
+    border: 1px solid;
+
+    font-size: 0.8em;
+    padding: 5px;
+}
+
+a.inicial{
+    background-color: rgb(0, 0, 0);
+    opacity: 0.8;
+}
+
+a.rojo{
+    background-color:#ff3d00;
+    opacity: 0.8;
+}
+
+a.verde{
+    background-color:#1b5e20;
+    opacity: 0.8;
+}
+
+a.azul{
+    background-color: #01579b;
+    opacity: 0.8;
+}
+
+a.negro{
+    background-color:#2c2727;
+    opacity: 0.8;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #000;
+    background-color:#90caf9;
+}

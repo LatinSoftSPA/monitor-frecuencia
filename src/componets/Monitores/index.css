@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.boxReloj{
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #01579b;
+    /* opacity: 0.95; */
+    border: 2px solid black;
+}
+
+.boxMapa{
+    height: 700px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #012038;
+    opacity: 0.95;
+    border: 1px solid black;
+}
+
+.boxServicios{
+    height: 700px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #012038;
+    opacity: 0.95;
+    border: 1px solid black;
+}
+
+.boxMoviles{
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #012038;
+    opacity: 0.75;
+    border: 1px solid black;
+}
